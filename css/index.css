@@ -348,46 +348,6 @@ a:hover{
 #sound[mute=yes] > #sound_off{
 	display: block;
 }
-#sharing{
-	position: absolute;
-	right:10px; top:0;
-	width: 150px;
-	overflow: hidden;
-}
-#sharing > a{
-	float: left;
-	display: block;
-	width: 50px;
-	height: 60px;
-	background: url(../sprites/ui/sharing.png);
-	background-size: auto 100%;
-}
-#sharing #fb{
-	background-position: 0px 0px;
-}
-#sharing #tw{
-	background-position: -50px 0px;
-}
-#sharing #em{
-	background-position: -100px 0px;
-}
-#share_title{
-	display: none;
-}
-#share_desc{
-	display: none;
-}
-#translations{
-	position: absolute;
-    top: 12px;
-    left: calc(50% - 450px);
-    width: 900px;
-    text-align: center;
-    color: #fff;
-    font-size: 14px;
-    line-height: 17px;
-    letter-spacing: 0.5px;
-}
 #navigation{
 
 	display: none;

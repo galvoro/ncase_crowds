@@ -59,8 +59,7 @@ subscribe("START", function(){
 	SOUNDS.bg_music.loop(true);
 	SOUNDS.bg_music.play();
 
-	// Hide translations, show navigation
-	$("#translations").style.display = "none";
+	// Show navigation
 	$("#navigation").style.display = "block";
 
 	// Show Skip Button

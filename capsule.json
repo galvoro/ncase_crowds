@@ -1,0 +1,35 @@
+{
+  "slug": "ncase_crowds",
+  "title": "Crowds",
+  "subtitle": "How ideas, behaviours, and social movements spread through networks — and why some catch on while others fizzle.",
+  "type": "PLAY_LEARN",
+  "level": "lower_undergrad",
+  "domain": ["Interdisciplinary", "Social Sciences"],
+  "field": ["Complexity Science", "Sociology"],
+  "subdiscipline": ["Network science", "Agent-based modeling"],
+  "mode": "responsive",
+  "keywords": [
+    "social contagion",
+    "complex contagion",
+    "tipping points",
+    "threshold models",
+    "social networks",
+    "collective behaviour",
+    "social movements",
+    "diffusion of innovations",
+    "granovetter",
+    "norm cascades",
+    "groupthink",
+    "weak ties"
+  ],
+  "learning_goals": [
+    "Distinguish simple contagion (one exposure suffices, e.g. a virus) from complex contagion (multiple reinforcing exposures needed, e.g. adopting a costly behaviour), and explain why this distinction reshapes how things spread through a network.",
+    "Apply threshold-based reasoning to predict whether a behaviour, idea, or movement will spread, stall, or collapse, given a population's distribution of individual thresholds and the structure of their social ties.",
+    "Identify how network structure — clustering, weak ties, hubs, bonding vs bridging — shapes which contagions catch on, and explain why dense pockets can both accelerate and contain spread depending on contagion type."
+  ],
+  "creator": "Nicky Case",
+  "institution": "Independent",
+  "notes": "Crowds was created by Nicky Case (https://ncase.me) and released under a Creative Commons Zero (CC0) public domain dedication. It draws on threshold-model and complex-contagion research from sociology and network science, notably Mark Granovetter's threshold models of collective behaviour and Damon Centola's work on complex contagion. Music 'Tale on the Late' by Komiku, also CC0. This Galvoro capsule is a near-verbatim fork: gameplay, copy, art, animation, and audio are unchanged from upstream. Edits are limited to those required by the Galvoro Capsule Contribution Spec — namely, removal of external social, share, donation, and translation links (which cannot function inside the Galvoro sandbox), removal of the supporters/Patreon wall, removal of share buttons, removal of the 24 non-English translation HTML files (the original site remains the canonical multilingual home), and the addition of capsule metadata. All pedagogical and creative credit belongs to Nicky Case.",
+  "external_link": "https://ncase.me/crowds/",
+  "license": "CC0-1.0"
+}
