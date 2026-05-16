@@ -2,12 +2,12 @@
   "slug": "ncase_crowds",
   "title": "Crowds",
   "subtitle": "How ideas, behaviours, and social movements spread through networks — and why some catch on while others fizzle.",
-  "type": "PLAY_LEARN",
+  "type": "EXPLORE",
   "level": "lower_undergrad",
   "domain": ["Interdisciplinary", "Social Sciences"],
   "field": ["Complexity Science", "Sociology"],
   "subdiscipline": ["Network science", "Agent-based modeling"],
-  "mode": "responsive",
+  "mode": "desktop",
   "keywords": [
     "social contagion",
     "complex contagion",
@@ -30,6 +30,6 @@
   "creator": "Nicky Case",
   "institution": "Independent",
   "notes": "Crowds was created by Nicky Case (https://ncase.me) and released under a Creative Commons Zero (CC0) public domain dedication. It draws on threshold-model and complex-contagion research from sociology and network science, notably Mark Granovetter's threshold models of collective behaviour and Damon Centola's work on complex contagion. Music 'Tale on the Late' by Komiku, also CC0. This Galvoro capsule is a near-verbatim fork: gameplay, copy, art, animation, and audio are unchanged from upstream. Edits are limited to those required by the Galvoro Capsule Contribution Spec — namely, removal of external social, share, donation, and translation links (which cannot function inside the Galvoro sandbox), removal of the supporters/Patreon wall, removal of share buttons, removal of the 24 non-English translation HTML files (the original site remains the canonical multilingual home), and the addition of capsule metadata. All pedagogical and creative credit belongs to Nicky Case.",
-  "external_link": "https://ncase.me/crowds/",
+  "external_link": "https://github.com/ncase/crowds",
   "license": "CC0-1.0"
 }
